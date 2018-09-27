@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/MurathanC/Desktop/Virtual Reality copy/Unity Küp ileri copy/denemev-2.2/Temp/gradleOut/build/intermediates/exploded-aar/OVRPlugin/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.1"
+        sha1="ee480f74e93a3d7f1cb226e86a6ef435e7fbb05f">
+        <dex dex="/Users/MurathanC/Desktop/Virtual Reality copy/Unity Küp ileri copy/denemev-2.2/Temp/gradleOut/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-OVRPlugin_3d99def017a445bc65e8e18cfbfc9bd311dea3c9.jar" />
+    </item>
+    <item
+        jar="/Users/MurathanC/Desktop/Virtual Reality copy/Unity Küp ileri copy/denemev-2.2/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        revision="28.0.1"
+        sha1="f29f06450e77ffbc4a0ffd0e0b96fff2f1cb6583">
+        <dex dex="/Users/MurathanC/Desktop/Virtual Reality copy/Unity Küp ileri copy/denemev-2.2/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_04901d23bb3d53883471a0232eea25f138651743.jar" />
+    </item>
+
+</items>
