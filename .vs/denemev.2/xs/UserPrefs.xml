@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F1AA78A5-BE8C-F6F3-DA47-6DA98650324E}|">
+  <MonoDevelop.Ide.ItemProperties.denemev.2 PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../denemev-2.2/Assets/kaydirma.cs">
+    <Files>
+      <File FileName="../denemev-2.2/Assets/kaydirma.cs" Line="49" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
